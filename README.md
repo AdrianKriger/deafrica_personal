@@ -1,2 +1,2 @@
 # deafrica_personal
-own sandbox notebooks
+own Digital Earth Africa sandbox notebooks
